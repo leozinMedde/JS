@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    text-align: center;
+    margin: 270px;
+    font-size: 50px;
+}
+input {
+    font-size: 40px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-align: left;
+}
+form {
+    background-color: black;
+    color: white;
+}
